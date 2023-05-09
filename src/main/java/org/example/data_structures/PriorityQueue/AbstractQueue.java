@@ -1,4 +1,4 @@
-package org.example.data_structures.priorityQueue;
+package org.example.data_structures.PriorityQueue;
 
 public interface AbstractQueue<E extends Comparable<E>> {
     int size();

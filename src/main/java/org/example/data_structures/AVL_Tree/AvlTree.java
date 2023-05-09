@@ -1,4 +1,4 @@
-package org.example.data_structures.avlTree;
+package org.example.data_structures.AVL_Tree;
 
 public class AvlTree <E extends Comparable<E>> implements Tree<E>{
 

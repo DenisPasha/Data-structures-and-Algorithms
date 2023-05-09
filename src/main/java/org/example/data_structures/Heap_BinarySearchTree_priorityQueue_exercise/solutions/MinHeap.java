@@ -1,7 +1,7 @@
-package org.example.data_structures.heap_BinarySearchTree_priorityQueue_exercise.solutions;
+package org.example.data_structures.Heap_BinarySearchTree_priorityQueue_exercise.solutions;
 
-import org.example.data_structures.heap_BinarySearchTree_priorityQueue_exercise.interfaces.Decrease;
-import org.example.data_structures.heap_BinarySearchTree_priorityQueue_exercise.interfaces.Heap;
+import org.example.data_structures.Heap_BinarySearchTree_priorityQueue_exercise.interfaces.Decrease;
+import org.example.data_structures.Heap_BinarySearchTree_priorityQueue_exercise.interfaces.Heap;
 
 import java.util.ArrayList;
 import java.util.Collections;

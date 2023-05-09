@@ -1,4 +1,4 @@
-package org.example.data_structures.heap_BinarySearchTree_priorityQueue_exercise;
+package org.example.data_structures.Heap_BinarySearchTree_priorityQueue_exercise;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

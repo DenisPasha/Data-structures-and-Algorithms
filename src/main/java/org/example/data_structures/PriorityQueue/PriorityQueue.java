@@ -1,4 +1,4 @@
-package org.example.data_structures.priorityQueue;
+package org.example.data_structures.PriorityQueue;
 
 import java.util.ArrayList;
 import java.util.Collections;

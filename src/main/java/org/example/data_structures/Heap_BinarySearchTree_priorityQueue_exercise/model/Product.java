@@ -1,6 +1,6 @@
-package org.example.data_structures.heap_BinarySearchTree_priorityQueue_exercise.model;
+package org.example.data_structures.Heap_BinarySearchTree_priorityQueue_exercise.model;
 
-import org.example.data_structures.heap_BinarySearchTree_priorityQueue_exercise.interfaces.Decrease;
+import org.example.data_structures.Heap_BinarySearchTree_priorityQueue_exercise.interfaces.Decrease;
 
 import java.util.Objects;
 
