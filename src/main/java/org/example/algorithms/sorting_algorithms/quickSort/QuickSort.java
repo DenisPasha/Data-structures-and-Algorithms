@@ -2,16 +2,15 @@ package org.example.algorithms.sorting_algorithms.quickSort;
 
 import java.util.Random;
 
-public class QuickSort {
 
+// The average time complexity of quick sort is O(N log(N)).
+
+public class QuickSort {
     public static void sort(int[] array){
         sort(array , 0 , array.length - 1);
     }
 
     private static void sort(int[] array, int lowIndex, int highIndex) {
-
-        //iint[] arr = {5,3,19,8};
-
 
         // Base case
         if (lowIndex > highIndex){
@@ -20,8 +19,6 @@ public class QuickSort {
 
         //1. Choose a pivot
         int pivotIndex = highIndex;
-//        int pivotIndex = (highIndex - lowIndex) / 2;
-//        swap(array , pivotIndex ,highIndex );
 
         //2. Partitioning
         int leftPointer = lowIndex;
@@ -48,4 +45,5 @@ public class QuickSort {
         array[first] = array[second];
         array[second] = temp;
     }
+
 }

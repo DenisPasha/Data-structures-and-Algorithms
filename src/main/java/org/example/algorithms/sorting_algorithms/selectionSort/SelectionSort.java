@@ -1,4 +1,5 @@
 package org.example.algorithms.sorting_algorithms.selectionSort;
+// The average time complexity of Selection sort is O(N^2)
 
 public class SelectionSort {
     public static void sort(int[] arr) {

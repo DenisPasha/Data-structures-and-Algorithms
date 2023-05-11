@@ -2,6 +2,8 @@ package org.example.algorithms.sorting_algorithms.mergeSort;
 
 public class MergeSort {
 
+    //The average case time complexity of merge sort is O(N log(N)).
+
     public static void sort(int[] inputArr) {
 
         // 1. divide

@@ -1,5 +1,6 @@
 package org.example.algorithms.sorting_algorithms.insertionSort;
 
+// The average time complexity of Insertion sort is O(N^2)
 public class InsertionSort {
 
 
