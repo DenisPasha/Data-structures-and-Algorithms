@@ -1,4 +1,5 @@
-package org.example.data_structures.BFS_DFS_Traversal.tree.
+package org.example.data_structures.BFS_DFS_Traversal.tree;
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
