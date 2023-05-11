@@ -24,6 +24,8 @@ public class MergeSort {
 
         sort(left);
         sort(right);
+
+        // 2. Merge
         merge(inputArr , left ,right);
     }
 
