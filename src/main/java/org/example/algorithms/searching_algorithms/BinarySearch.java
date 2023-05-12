@@ -2,6 +2,8 @@ package org.example.algorithms.searching_algorithms;
 
 import java.util.Arrays;
 
+// Binary search complexity in average is O(log n).
+// However binary search needs the elements to be sorted
 public class BinarySearch {
 
 
