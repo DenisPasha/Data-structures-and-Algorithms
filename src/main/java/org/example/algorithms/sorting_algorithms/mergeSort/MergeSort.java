@@ -7,7 +7,6 @@ public class MergeSort {
     public static void sort(int[] inputArr) {
 
         // 1. divide
-
         if (inputArr.length < 2){
             return;
         }
