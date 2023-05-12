@@ -7,6 +7,7 @@ public class BinarySearch {
 
     public static int search(int[]elements ,int element ){
         Arrays.sort(elements);
+        System.out.println();
        return search(element , elements );
     }
 
