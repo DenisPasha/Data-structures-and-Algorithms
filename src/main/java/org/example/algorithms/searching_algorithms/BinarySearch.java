@@ -14,7 +14,7 @@ public class BinarySearch {
     private static int search(int element, int[] elements) {
 
         if (elements.length < 1){
-            return -100;
+            throw new NullPointerException("Element does not exist in the given array");
         }
 
         if (elements[0] == element) {
